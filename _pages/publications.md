@@ -15,11 +15,11 @@ toc:
 
 <div class="publications">
 
-## Journal Articles
+<h2>Journal Articles</h2>
 
 {% bibliography --query @article --group_by none %}
 
-## Conference Proceedings
+<h2>Conference Proceedings</h2>
 
 {% bibliography --query @inproceedings --group_by none %}
 
