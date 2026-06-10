@@ -4,4 +4,5 @@
 cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 email: euijin@dgist.ac.kr # your email address
 github_username: EuijinMisp # your GitHub username
+scholar_userid: "-rAfX9kAAAAJ" # your Google Scholar ID
 rss_icon: true # comment this line to hide the RSS icon
