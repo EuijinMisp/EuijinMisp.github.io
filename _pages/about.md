@@ -54,7 +54,7 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 Learning general-purpose representations from large-scale unlabeled EEG/fNIRS to enable few-shot transfer across paradigms and subjects.
 
 <div class="row justify-content-center">
-  <div class="col-4 p-0">
+  <div class="col-4 p-0" style="max-width: 22.22%;">
     {% include figure.liquid loading="eager" path="assets/img/cibm.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
