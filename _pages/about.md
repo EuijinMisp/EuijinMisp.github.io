@@ -27,9 +27,41 @@ latest_posts:
 
 I am a postdoctoral researcher at the **Brain Robot Augmented INteraction Lab (BRAIN Lab)**, Division of Intelligent Robot, [DGIST](https://www.dgist.ac.kr), working with Prof. Jinung An. I received my Ph.D. (2023) and M.S. (2019) from DGIST under Prof. Sang Hyun Park.
 
-My research develops **artificial intelligence for brain signals and medical images**. I build foundation models for **EEG and fNIRS** that learn from large-scale unlabeled data and generalize across paradigms and subjects with only a few labels. I am also interested in brain–computer interfaces, objective **pain decoding** from neural signals, and deep generative models for **medical image synthesis** (MRI/PET).
-
 Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publications](/publications/) and [code](https://github.com/EuijinMisp).
+
+## Research Topics
+
+### Multimodal Brain-Signal Foundation Model
+
+- Self-supervised pre-training on large-scale unlabeled **EEG and fNIRS**
+- Cross-modal representation alignment between paired EEG–fNIRS signals
+- Few-shot generalization across paradigms and subjects with only a few labels
+
+{% include figure.liquid loading="eager" path="assets/img/cibm.png" class="img-fluid rounded z-depth-1" %}
+
+### EEG-based Pain Decoding
+
+- Objective **pain-level classification** from neural signals
+- Sample selection to mitigate subjective label bias in self-reported scores
+- Ranking-based alignment for robust learning under noisy labels
+
+{% include figure.liquid loading="eager" path="assets/img/tnsre.png" class="img-fluid rounded z-depth-1" %}
+
+### 3D Generative Models for Medical Imaging
+
+- Conditional GAN with attention generator and 2D/3D discriminators
+- Synthesis of **3D brain MRI**, including Alzheimer's disease progression
+- Attention and total-variation constraints for anatomically consistent generation
+
+{% include figure.liquid loading="eager" path="assets/img/pattern_recognition.png" class="img-fluid rounded z-depth-1" %}
+
+### Cross-Modality Image Synthesis
+
+- **PET/MR** image translation and fusion from a single modality
+- Combination of GAN and conditional denoising diffusion (cDDPM)
+- Clinical application to pyogenic spondylodiscitis diagnosis
+
+{% include figure.liquid loading="eager" path="assets/img/spine.png" class="img-fluid rounded z-depth-1" %}
 
 ## Education
 
