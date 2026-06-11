@@ -35,13 +35,13 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 
 ## Positions
 
-- **Postdoctoral Researcher**, BRAIN Lab, Division of Intelligent Robot, DGIST — *Aug. 2023 – Present*
+- **Postdoctoral Researcher**, BRAIN Lab, Division of Intelligent Robot, DGIST (Aug. 2023 – Present)
 
 ## Awards
 
-- **Best Researcher Award**, DGIST Robotics and Mechatronics Engineering — *2023*
-- **3rd / 40 teams**, Seoul National University Hospital Sleep AI Challenge — *2021*
-- **Best Poster Award**, 30th Workshop on Image Processing and Image Understanding (IPIU) — *2018*
+- **Best Researcher Award**, DGIST Robotics and Mechatronics Engineering (2023)
+- **3rd / 40 teams**, Seoul National University Hospital Sleep AI Challenge (2021)
+- **Best Poster Award**, 30th Workshop on Image Processing and Image Understanding (IPIU) (2018)
 
 ## [news](/news/)
 
