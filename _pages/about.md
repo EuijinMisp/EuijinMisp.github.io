@@ -37,7 +37,11 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 - Cross-modal representation alignment between paired EEG–fNIRS signals
 - Few-shot generalization across paradigms and subjects with only a few labels
 
-{% include figure.liquid loading="eager" path="assets/img/cibm.png" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+  <div class="col-9 p-0">
+    {% include figure.liquid loading="eager" path="assets/img/cibm.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 ### EEG-based Pain Decoding
 
