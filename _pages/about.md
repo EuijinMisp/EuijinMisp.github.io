@@ -45,22 +45,22 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 
 ## Research Topics
 
-### Multimodal Brain-Signal Foundation Model
+**Multimodal Brain-Signal Foundation Model**
 
 <div class="row justify-content-center">
-  <div class="col-9 p-0">
+  <div class="col-6 p-0">
     {% include figure.liquid loading="eager" path="assets/img/cibm.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
-### 비침습 뇌신호 분석
+**Non-invasive Brain-Signal Analysis**
 
 {% include figure.liquid loading="eager" path="assets/img/tnsre.png" class="img-fluid rounded z-depth-1" %}
 
-### Conditional Image Generation
+**Conditional Image Generation**
 
 {% include figure.liquid loading="eager" path="assets/img/pattern_recognition.png" class="img-fluid rounded z-depth-1" %}
 
-### Cross-Modality Image Synthesis
+**Cross-Modality Image Synthesis**
 
 {% include figure.liquid loading="eager" path="assets/img/spine.png" class="img-fluid rounded z-depth-1" %}
