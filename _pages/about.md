@@ -33,6 +33,10 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 - **M.S.**, Robotics Engineering, DGIST — *Feb. 2019* (Advisor: Sang Hyun Park)
 - **B.S.**, Electronic Engineering, Korea University of Technology and Education — *Feb. 2017*
 
+## Positions
+
+- **Postdoctoral Researcher**, BRAIN Lab, Division of Intelligent Robot, DGIST — *Aug. 2023 – Present*
+
 ## Awards
 
 - **Best Researcher Award**, DGIST Robotics and Mechatronics Engineering — *2023*
@@ -45,7 +49,7 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 
 ## Research Topics
 
-**Multimodal Brain-Signal Foundation Model**
+- **Multimodal Brain-Signal Foundation Model**
 
 Learning general-purpose representations from large-scale unlabeled EEG/fNIRS to enable few-shot transfer across paradigms and subjects.
 
@@ -55,19 +59,19 @@ Learning general-purpose representations from large-scale unlabeled EEG/fNIRS to
   </div>
 </div>
 
-**Non-invasive Brain-Signal Analysis**
+- **Non-invasive Brain-Signal Analysis**
 
 Decoding cognitive and physiological states from scalp EEG/fNIRS for brain–computer interfaces and clinical monitoring.
 
 {% include figure.liquid loading="eager" path="assets/img/tnsre.png" class="img-fluid rounded z-depth-1" %}
 
-**Conditional Image Generation**
+- **Conditional Image Generation**
 
 Generative models (GANs, diffusion) that synthesize realistic images under specified conditions with structural control.
 
 {% include figure.liquid loading="eager" path="assets/img/pattern_recognition.png" class="img-fluid rounded z-depth-1" %}
 
-**Cross-Modality Image Synthesis**
+- **Cross-Modality Image Synthesis**
 
 Translating between imaging modalities (e.g., MR↔PET) to recover complementary information without extra scans.
 
