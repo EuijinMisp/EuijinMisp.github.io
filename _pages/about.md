@@ -29,9 +29,9 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 
 ## Education
 
-- **Ph.D.**, Robotics and Mechatronics Engineering, DGIST — *Aug. 2023* (Advisor: Sang Hyun Park)
-- **M.S.**, Robotics Engineering, DGIST — *Feb. 2019* (Advisor: Sang Hyun Park)
-- **B.S.**, Electronic Engineering, Korea University of Technology and Education — *Feb. 2017*
+- **Ph.D.**, Robotics and Mechatronics Engineering, DGIST
+- **M.S.**, Robotics Engineering, DGIST
+- **B.S.**, Electronic Engineering, Korea University of Technology and Education
 
 ## Positions
 
