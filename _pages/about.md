@@ -43,7 +43,7 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 - **3rd / 40 teams**, Seoul National University Hospital Sleep AI Challenge (2021)
 - **Best Poster Award**, 30th Workshop on Image Processing and Image Understanding (IPIU) (2018)
 
-## [news](/news/)
+## [News](/news/)
 
 {% include news.liquid limit=true %}
 
