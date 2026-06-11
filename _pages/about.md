@@ -47,6 +47,8 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 
 **Multimodal Brain-Signal Foundation Model**
 
+Learning general-purpose representations from large-scale unlabeled EEG/fNIRS to enable few-shot transfer across paradigms and subjects.
+
 <div class="row justify-content-center">
   <div class="col-4 p-0">
     {% include figure.liquid loading="eager" path="assets/img/cibm.png" class="img-fluid rounded z-depth-1" %}
@@ -55,12 +57,18 @@ Feel free to reach out by [email](mailto:euijin@dgist.ac.kr) or browse my [publi
 
 **Non-invasive Brain-Signal Analysis**
 
+Decoding cognitive and physiological states from scalp EEG/fNIRS for brain–computer interfaces and clinical monitoring.
+
 {% include figure.liquid loading="eager" path="assets/img/tnsre.png" class="img-fluid rounded z-depth-1" %}
 
 **Conditional Image Generation**
 
+Generative models (GANs, diffusion) that synthesize realistic images under specified conditions with structural control.
+
 {% include figure.liquid loading="eager" path="assets/img/pattern_recognition.png" class="img-fluid rounded z-depth-1" %}
 
 **Cross-Modality Image Synthesis**
+
+Translating between imaging modalities (e.g., MR↔PET) to recover complementary information without extra scans.
 
 {% include figure.liquid loading="eager" path="assets/img/spine.png" class="img-fluid rounded z-depth-1" %}
